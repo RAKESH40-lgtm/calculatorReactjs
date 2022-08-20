@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #98a1a1;
+}
+h1{
+    text-align: center;
+}
+input{
+    background-color: aqua;
+    color: black;
+}
+
+.body{
+    
+    margin-top: 203px;
+    text-align: center;
+}
+.firstRow{
+    font-family: sans-serif;
+    font-size: medium;
+    margin: 1px;
+}
+.Value{
+   width: 46px;
+   margin: 1px;
+   background-color: blue;
+   color: aqua;
+}
+.plus{
+    width: 53px;
+    background-color: blue;
+   color: aqua;
+}
+.clear{
+    background-color: blue;
+   color: aqua;
+   margin: 2px;
+}
+button:hover{
+    color:black;
+    background-color: white;
+}
